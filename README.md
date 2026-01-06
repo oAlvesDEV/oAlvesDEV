@@ -12,7 +12,7 @@
 ## Discord Profiles
 <div allign="center">
 
-<a href="https://discordapp.com/users/1447670619792474314"><img width="45%" src="https://discord.c99.nl/widget/theme-3/871877975346405388.png"/></a>
+<a href="https://discordapp.com/users/1447670619792474314"><img width="45%" src="https://discord.c99.nl/widget/theme-3/1447670619792474314.png"/></a>
 
 </div>
 ### Main skills:
