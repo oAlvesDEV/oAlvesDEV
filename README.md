@@ -9,12 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=oAlvesDEV&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## Discord Profiles
-<div allign="center">
 
-<a href="https://discordapp.com/users/1447670619792474314"><img width="45%" src="https://discord.c99.nl/widget/theme-3/1447670619792474314.png"/></a>
-
-</div>
 ### Main skills:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
